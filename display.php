@@ -5,11 +5,11 @@
     </body>
 </html>
 
-
 <?php 
 
 
-require('mysqli_connect.php'); // Connect to the db.
+require('mysqli_connect.php'); 
+// Connect to the db.
 
 
 // Determine where in the database to start returning results...
